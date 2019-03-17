@@ -1,5 +1,4 @@
 import sys
-
 while True:
     a, b = sys.stdin.readline().split()
     a = int(a); b = int(b)
